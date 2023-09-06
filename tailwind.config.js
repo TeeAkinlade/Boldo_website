@@ -13,6 +13,7 @@ export default {
         secondaryBlue: "#0A2640",
         primaryGray: "#777777",
         green: "#65E4A3",
+        lightGray: "#c4c4c4",
       }
     },
   },
