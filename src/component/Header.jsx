@@ -7,7 +7,7 @@ import logo from '../images/Logo.svg'
 const navigation = [
     { name: 'Product', href: '#' },
     { name: 'Services', href: '#' },
-    { name: 'About', href: '#' },
+    { name: 'About', href: '/about' },
 ]
 
 const Header = () => {
