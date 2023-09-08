@@ -2,7 +2,6 @@ import React from 'react'
 import ellipse from '../images/Ellipse 9.svg'
 import HeroPhoto from '../images/HeroGraphics.svg'
 import heroPhoto2 from '../images/Group 249.svg'
-import Header from './Header'
 import { Link } from 'react-router-dom'
 
 const Hero = () => {
@@ -13,7 +12,6 @@ const Hero = () => {
                     <img src={ellipse} alt="circle-shape" />
                 </div>
                 <div className="max-w-7xl m-auto px-8 md:px-12 lg:px-16 pt-32 pb-16">
-                    <Header />
                     <div className="flex flex-col md:flex-row justify-between items-center gap-5">
                         <div className="max-w-xl">
                             <h1 className="text-3xl font-medium md:text-3xl lg:text-4xl leading-normal">Save time by building  fast with Boldo Template </h1>

@@ -7,6 +7,7 @@ import logo from '../images/Logo.svg'
 const navigation = [
     { name: 'Product', href: '#' },
     { name: 'Services', href: '#' },
+    { name: 'Blog', href: '/blog' },
     { name: 'About', href: '/about' },
 ]
 
